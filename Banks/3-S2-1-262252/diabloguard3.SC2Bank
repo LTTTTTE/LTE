@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="unit">
+        <Key name="demon">
+            <XPName0 string="UnknownBehavior3"/>
+            <ItemCount int="1"/>
+            <Type string="Demonhunterfinal"/>
+            <Shields fixed="500000"/>
+            <XP fixed="911.458"/>
+            <Item1 string="MaulOfStrength222222222,4,8"/>
+            <Life fixed="475350"/>
+            <XPValue0 fixed="911.458"/>
+            <Energy fixed="936"/>
+            <Item0 string="MaulOfStrength222222222,2,64"/>
+            <XPCount int="1"/>
+        </Key>
+    </Section>
+    <Section name="data">
+        <Key name="regenerate">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="item">
+        <Key name="itemclass4">
+            <Value string="I222222222"/>
+        </Key>
+    </Section>
+    <Section name="latestver">
+        <Key name="ver">
+            <Value fixed="4.9"/>
+        </Key>
+    </Section>
+    <Section name="terz">
+        <Key name="num1">
+            <Value int="2647615"/>
+        </Key>
+    </Section>
+    <Section name="Confirm">
+        <Key name="Voucher">
+            <Value string=""/>
+        </Key>
+    </Section>
+    <Section name="encry">
+        <Key name="s2">
+            <Value string="82575c1f6bd49903f2657004e22e6d13be4f7a374c20c12b4848469cdd413d21"/>
+        </Key>
+        <Key name="c4">
+            <Value string="c_YK:3:65a568"/>
+        </Key>
+        <Key name="checksuma">
+            <Value string="3-"/>
+        </Key>
+        <Key name="s3">
+            <Value string="RPXAQWEWPXWQPQW"/>
+        </Key>
+        <Key name="s12">
+            <Value string="7@V5"/>
+        </Key>
+        <Key name="cyclelv">
+            <Value string="0"/>
+        </Key>
+        <Key name="z2">
+            <Value string="/12[4]"/>
+        </Key>
+        <Key name="s5">
+            <Value string="X5OJMJBJUOJM5MJ"/>
+        </Key>
+        <Key name="x4">
+            <Value string="NAWGRZBZDWZRARZ"/>
+        </Key>
+        <Key name="z1">
+            <Value string="117"/>
+        </Key>
+        <Key name="s0">
+            <Value string="AMTQXASAETAXMXA"/>
+        </Key>
+        <Key name="s1">
+            <Value string=""/>
+        </Key>
+        <Key name="s6">
+            <Value string=""/>
+        </Key>
+        <Key name="s4">
+            <Value string="SNYVGBBBGYBGNGB"/>
+        </Key>
+        <Key name="cycle">
+            <Value string="0"/>
+        </Key>
+    </Section>
+    <Signature value="DCA00F89C6D46911EC774212305685653976EDE3"/>
+</Bank>

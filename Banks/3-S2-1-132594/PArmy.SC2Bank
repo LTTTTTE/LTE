@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PStory|ArmyUnit">
+        <Key name="PhoenixShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotAiur">
+            <Value int="2"/>
+        </Key>
+        <Key name="ImmortalAiur">
+            <Value int="2"/>
+        </Key>
+        <Key name="DarkTemplarShakuras">
+            <Value int="2"/>
+        </Key>
+        <Key name="ColossusTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryAiur">
+            <Value int="2"/>
+        </Key>
+        <Key name="ImmortalShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierAiur">
+            <Value int="2"/>
+        </Key>
+        <Key name="HighTemplarAiur">
+            <Value int="2"/>
+        </Key>
+        <Key name="DarkTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusPurifier">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZealotPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayShakuras">
+            <Value int="2"/>
+        </Key>
+        <Key name="StalkerAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerShakuras">
+            <Value int="2"/>
+        </Key>
+        <Key name="HighTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryTalDarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixAiur">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="PStory|ArmyCategory">
+        <Key name="PhotonCannon">
+            <Value int="1"/>
+        </Key>
+        <Key name="Sentry">
+            <Value int="1"/>
+        </Key>
+        <Key name="Archon">
+            <Value int="1"/>
+        </Key>
+        <Key name="WarpGate">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplar">
+            <Value int="1"/>
+        </Key>
+        <Key name="Phoenix">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zealot">
+            <Value int="1"/>
+        </Key>
+        <Key name="Carrier">
+            <Value int="1"/>
+        </Key>
+        <Key name="ShieldBattery">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stalker">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRay">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplar">
+            <Value int="1"/>
+        </Key>
+        <Key name="Colossus">
+            <Value int="1"/>
+        </Key>
+        <Key name="Immortal">
+            <Value int="1"/>
+        </Key>
+        <Key name="KhaydarinMonolith">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

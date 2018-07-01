@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="game">
+        <Key name="play">
+            <Value int="2"/>
+        </Key>
+        <Key name="defeat">
+            <Value int="1"/>
+        </Key>
+        <Key name="win">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="C3E0F47AD15AFF50F43E717548927EB897F127E7"/>
+</Bank>

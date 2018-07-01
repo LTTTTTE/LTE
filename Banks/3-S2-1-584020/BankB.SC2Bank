@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MOS">
+        <Key name="Recon">
+            <Value int="1"/>
+        </Key>
+        <Key name="HS">
+            <Value int="1"/>
+        </Key>
+        <Key name="Firebat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Demo">
+            <Value int="0"/>
+        </Key>
+        <Key name="Engi">
+            <Value int="1"/>
+        </Key>
+        <Key name="Radio">
+            <Value int="1"/>
+        </Key>
+        <Key name="MM">
+            <Value int="1"/>
+        </Key>
+        <Key name="Grunt">
+            <Value int="2"/>
+        </Key>
+        <Key name="Medic">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Options">
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="camDistance">
+            <Value fixed="2.5"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="camAngle">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="0">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Medals">
+        <Key name="16">
+            <Value flag="0"/>
+        </Key>
+        <Key name="14">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="25">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="19">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="27">
+            <Value flag="0"/>
+        </Key>
+        <Key name="26">
+            <Value flag="0"/>
+        </Key>
+        <Key name="20">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="23">
+            <Value flag="1"/>
+        </Key>
+        <Key name="21">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11">
+            <Value flag="1"/>
+        </Key>
+        <Key name="15">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="24">
+            <Value flag="0"/>
+        </Key>
+        <Key name="22">
+            <Value flag="1"/>
+        </Key>
+        <Key name="17">
+            <Value flag="0"/>
+        </Key>
+        <Key name="13">
+            <Value flag="1"/>
+        </Key>
+        <Key name="12">
+            <Value flag="1"/>
+        </Key>
+        <Key name="18">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="Evacs">
+            <Value int="7"/>
+        </Key>
+        <Key name="SH">
+            <Value int="0"/>
+        </Key>
+        <Key name="EvacCommander">
+            <Value int="0"/>
+        </Key>
+        <Key name="Experience">
+            <Value int="87899"/>
+        </Key>
+        <Key name="X">
+            <Value int="0"/>
+        </Key>
+        <Key name="Trainer">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evac">
+            <Value int="49"/>
+        </Key>
+        <Key name="Checksum">
+            <Value int="12080"/>
+        </Key>
+        <Key name="SN">
+            <Value int="0"/>
+        </Key>
+        <Key name="SuperCommander">
+            <Value int="0"/>
+        </Key>
+        <Key name="EvacGrunt">
+            <Value int="2"/>
+        </Key>
+        <Key name="EvacNMG">
+            <Value int="1"/>
+        </Key>
+        <Key name="EvacNM">
+            <Value int="7"/>
+        </Key>
+        <Key name="Rank">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="SignatureX">
+        <Key name="Checksum">
+            <Value string="oxIxoiHDnUHUDn"/>
+        </Key>
+        <Key name="Validator">
+            <Value string="LYJYLUHzoLVoxV"/>
+        </Key>
+    </Section>
+    <Section name="MiniGames">
+        <Key name="Memory">
+            <Value int="50"/>
+        </Key>
+        <Key name="Tetris">
+            <Value int="0"/>
+        </Key>
+        <Key name="Arena">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Handles">
+        <Key name="Current">
+            <Value int="3"/>
+        </Key>
+        <Key name="Checksum">
+            <Value string="tRZRtjXZHZXXEw"/>
+        </Key>
+        <Key name="KR">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Signature value="97A04996C6E5AB8C12D9BAAAA611633201BA9010"/>
+</Bank>

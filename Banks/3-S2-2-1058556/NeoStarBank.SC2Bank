@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="">
+        <Key name="">
+            <Value string="0 0 0 0 2 0 0 0 0 -- 0 0 0 0 0 N 0 1 1 00000000000000000 0 0 0 0 0  0  "/>
+        </Key>
+    </Section>
+    <Signature value="063454B5F044281C3B2CBD83F6D323FD47749685"/>
+</Bank>

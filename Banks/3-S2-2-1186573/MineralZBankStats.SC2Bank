@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="Lvl">
+            <Value int="99"/>
+        </Key>
+        <Key name="set4">
+            <Value int="160"/>
+        </Key>
+        <Key name="MostKills">
+            <Value fixed="754000000"/>
+        </Key>
+        <Key name="AchievementPoints">
+            <Value int="85"/>
+        </Key>
+        <Key name="Heals">
+            <Value int="642000000"/>
+        </Key>
+        <Key name="TotalKills">
+            <Value fixed="7540000"/>
+        </Key>
+        <Key name="TimesPlayed">
+            <Value int="101"/>
+        </Key>
+        <Key name="Absorbed">
+            <Value int="333000"/>
+        </Key>
+        <Key name="Games">
+            <Value int="103"/>
+        </Key>
+        <Key name="Exp">
+            <Value int="9572"/>
+        </Key>
+        <Key name="set3">
+            <Value int="16"/>
+        </Key>
+        <Key name="Gens">
+            <Value int="100"/>
+        </Key>
+        <Key name="set1">
+            <Value int="327445"/>
+        </Key>
+        <Key name="TimePlayed">
+            <Value fixed="268046"/>
+        </Key>
+    </Section>
+    <Signature value="302E45B84A6EF20682562D6712F25CA4E4EFC119"/>
+</Bank>

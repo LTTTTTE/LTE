@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Bank">
+        <Key name="PlayerID">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+        <Key name="Version">
+            <Value int="20"/>
+        </Key>
+        <Key name="Data">
+            <Value string="RLVLVSNNBBj0msV2iurosmVjoTmL7JFduAwrxc-THwwLa-2AtdRKfVzl0BtGFCYRgXeg"/>
+        </Key>
+    </Section>
+</Bank>

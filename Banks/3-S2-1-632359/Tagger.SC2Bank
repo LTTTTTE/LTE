@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="game">
+        <Key name="play">
+            <Value int="1"/>
+        </Key>
+        <Key name="tauren">
+            <Value int="0"/>
+        </Key>
+        <Key name="rand">
+            <Value int="0"/>
+        </Key>
+        <Key name="killt">
+            <Value int="0"/>
+        </Key>
+        <Key name="winr">
+            <Value int="1"/>
+        </Key>
+        <Key name="bunkerbuster">
+            <Value int="0"/>
+        </Key>
+        <Key name="brot">
+            <Value int="1"/>
+        </Key>
+        <Key name="surv">
+            <Value int="0"/>
+        </Key>
+        <Key name="wint">
+            <Value int="0"/>
+        </Key>
+        <Key name="taunt">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="achieve">
+        <Key name="38">
+            <Value flag="1"/>
+        </Key>
+        <Key name="39">
+            <Value flag="1"/>
+        </Key>
+        <Key name="32">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Option">
+        <Key name="BGM">
+            <Value flag="1"/>
+        </Key>
+        <Key name="IsClear">
+            <Value flag="0"/>
+        </Key>
+        <Key name="TextTag">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Signature value="B292F2A8691FAE184ABFBD9CB86FECD541564BEE"/>
+</Bank>

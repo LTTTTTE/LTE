@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Team">
+        <Key name="4">
+            <Value text="모모랜드:3-S2-1-4383469&lt;n/&gt;"/>
+        </Key>
+        <Key name="6">
+            <Value text="qhhhhhhhhhh:3-S2-1-3716849&lt;n/&gt;"/>
+        </Key>
+        <Key name="1">
+            <Value text="화성:3-S2-1-5802841&lt;n/&gt;"/>
+        </Key>
+        <Key name="3">
+            <Value text="Frankdrebin:3-S2-1-5943906&lt;n/&gt;"/>
+        </Key>
+        <Key name="2">
+            <Value text="왕기:3-S2-1-6105750&lt;n/&gt;"/>
+        </Key>
+        <Key name="5">
+            <Value text="kiowei:3-S2-1-1093451&lt;n/&gt;"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="BattleCamEX">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="BCTX1.4">
+            <Value int="246"/>
+        </Key>
+        <Key name="BCTX2.1">
+            <Value int="149"/>
+        </Key>
+        <Key name="BCTX1.5">
+            <Value int="160"/>
+        </Key>
+        <Key name="BCTX1.1">
+            <Value int="163"/>
+        </Key>
+        <Key name="BCTX2.2">
+            <Value int="147"/>
+        </Key>
+        <Key name="BCTX1.3">
+            <Value int="160"/>
+        </Key>
+        <Key name="BCTX1.2">
+            <Value int="170"/>
+        </Key>
+    </Section>
+    <Signature value="F6DEBADC4CD0D6CC87C18D3E0743E7FA77EF553B"/>
+</Bank>

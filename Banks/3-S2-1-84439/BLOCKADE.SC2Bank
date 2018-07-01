@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="SAVE">
+        <Key name="CODE">
+            <Value string="52755dd6fd46395772782c4ec32fc64cda71164d81ca1ebca9f830d2ce2e234e"/>
+        </Key>
+        <Key name="LV">
+            <Value int="4"/>
+        </Key>
+        <Key name="ITEM01">
+            <Value int="78655"/>
+        </Key>
+    </Section>
+    <Signature value="B436F13CF7820E1C411116A424F8D77868CF8E87"/>
+</Bank>

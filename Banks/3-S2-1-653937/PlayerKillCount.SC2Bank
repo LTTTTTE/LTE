@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Kill">
+        <Key name="Count">
+            <Value int="37869"/>
+        </Key>
+    </Section>
+    <Signature value="BEB78ED82E378841C20CA6C9A2D1ADEC90420C75"/>
+</Bank>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="BB">
+        <Key name="W">
+            <Value string="2"/>
+        </Key>
+    </Section>
+    <Section name="0">
+        <Key name="78965123">
+            <Value string="8243042525219496836266065433242200879262226886296040209135722072547990603234989886146993182"/>
+        </Key>
+    </Section>
+    <Signature value="8AECDEC43588A3837B4D0C21298A9E73D98F047B"/>
+</Bank>

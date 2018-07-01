@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="game">
+        <Key name="bp">
+            <Value int="136"/>
+        </Key>
+        <Key name="vic">
+            <Value int="21"/>
+        </Key>
+        <Key name="disconnect">
+            <Value flag="0"/>
+        </Key>
+        <Key name="topdif">
+            <Value int="2"/>
+        </Key>
+        <Key name="dis">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="md">
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="1"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Signature value="B06F4A45E9C48C833186C4337D8C46B34B26D24B"/>
+</Bank>

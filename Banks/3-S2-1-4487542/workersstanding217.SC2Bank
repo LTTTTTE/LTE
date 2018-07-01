@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Easy">
+        <Key name="Tainted fields">
+            <Value text="Easy"/>
+        </Key>
+    </Section>
+    <Section name="SCV">
+        <Key name="EXP">
+            <Value fixed="258"/>
+        </Key>
+        <Key name="KILLS">
+            <Value int="55"/>
+        </Key>
+    </Section>
+</Bank>

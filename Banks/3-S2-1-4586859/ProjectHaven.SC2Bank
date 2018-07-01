@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Player">
+        <Key name="Cryotech">
+            <Value int="0"/>
+        </Key>
+        <Key name="Striker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Gunner">
+            <Value int="0"/>
+        </Key>
+        <Key name="Warhound">
+            <Value int="0"/>
+        </Key>
+        <Key name="BankVersion">
+            <Value int="93"/>
+        </Key>
+        <Key name="HERC">
+            <Value int="0"/>
+        </Key>
+        <Key name="Specialist">
+            <Value int="0"/>
+        </Key>
+        <Key name="Commander">
+            <Value int="0"/>
+        </Key>
+        <Key name="IncapText">
+            <Value int="0"/>
+        </Key>
+        <Key name="Effect">
+            <Value int="0"/>
+        </Key>
+        <Key name="Crow">
+            <Value int="0"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="0"/>
+        </Key>
+        <Key name="Shredder">
+            <Value int="0"/>
+        </Key>
+        <Key name="Widow Mine">
+            <Value int="0"/>
+        </Key>
+        <Key name="Firebat">
+            <Value int="2"/>
+        </Key>
+        <Key name="Credits">
+            <Value int="24"/>
+        </Key>
+        <Key name="Mechanic">
+            <Value int="0"/>
+        </Key>
+        <Key name="Assassin">
+            <Value int="0"/>
+        </Key>
+        <Key name="SCV">
+            <Value int="0"/>
+        </Key>
+        <Key name="?">
+            <Value int="0"/>
+        </Key>
+        <Key name="Chieftain">
+            <Value int="0"/>
+        </Key>
+        <Key name="Mercenary">
+            <Value int="0"/>
+        </Key>
+        <Key name="Psion">
+            <Value int="3"/>
+        </Key>
+        <Key name="Ghost">
+            <Value int="38"/>
+        </Key>
+        <Key name="Chemist">
+            <Value int="0"/>
+        </Key>
+        <Key name="Score">
+            <Value int="49"/>
+        </Key>
+        <Key name="Hunter">
+            <Value int="0"/>
+        </Key>
+        <Key name="Eradicator">
+            <Value int="0"/>
+        </Key>
+        <Key name="Cyclone">
+            <Value int="0"/>
+        </Key>
+        <Key name="Operative">
+            <Value int="0"/>
+        </Key>
+        <Key name="TDB">
+            <Value int="0"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="0"/>
+        </Key>
+        <Key name="Siege Tank">
+            <Value int="0"/>
+        </Key>
+        <Key name="UnlockedHeroes">
+            <Value string="1111110000000000000000000000000000000000000000000000000000000"/>
+        </Key>
+        <Key name="Exterminator">
+            <Value int="0"/>
+        </Key>
+        <Key name="Grunty">
+            <Value int="0"/>
+        </Key>
+        <Key name="Spectre">
+            <Value int="0"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="6"/>
+        </Key>
+        <Key name="Medic">
+            <Value int="0"/>
+        </Key>
+        <Key name="Pet">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="A7405201B98D7AF9AB8F266DEA34EE7611113EAB"/>
+</Bank>

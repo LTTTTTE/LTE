@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ReX">
+        <Key name="E">
+            <Value fixed="2561.4052"/>
+        </Key>
+    </Section>
+    <Section name="Player">
+        <Key name="H">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Section name="information">
+        <Key name="play">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="E6F885D4DB8E45F64016D775E7DF2512A4AFA6ED"/>
+</Bank>

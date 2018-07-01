@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="StarRodataA">
+        <Key name="maxexp">
+            <Value int="25875"/>
+        </Key>
+        <Key name="exp">
+            <Value int="17453"/>
+        </Key>
+        <Key name="crown">
+            <Value int="129977"/>
+        </Key>
+        <Key name="level">
+            <Value int="15"/>
+        </Key>
+    </Section>
+</Bank>

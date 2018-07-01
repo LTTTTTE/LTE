@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="GamesPlayed">
+        <Key name="LongestTime">
+            <Value int="75"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="2"/>
+        </Key>
+        <Key name="Time">
+            <Value int="141"/>
+        </Key>
+    </Section>
+    <Section name="ZombiesKilled">
+        <Key name="TotalKills">
+            <Value int="602"/>
+        </Key>
+        <Key name="HighestZombiesKilled">
+            <Value int="452"/>
+        </Key>
+    </Section>
+    <Section name="ResourceScore">
+        <Key name="ResourcesCollected">
+            <Value fixed="-70.629"/>
+        </Key>
+    </Section>
+</Bank>

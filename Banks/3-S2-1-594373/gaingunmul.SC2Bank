@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="winlose">
+        <Key name="lose">
+            <Value int="1"/>
+        </Key>
+        <Key name="win">
+            <Value int="1"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="2"/>
+        </Key>
+    </Section>
+</Bank>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PlayerDataA">
+        <Key name="Slot0">
+            <Value int="65"/>
+        </Key>
+        <Key name="ExperanceGain">
+            <Value int="9352"/>
+        </Key>
+        <Key name="Energe">
+            <Value fixed="100"/>
+        </Key>
+        <Key name="Shield">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Vespin">
+            <Value int="0"/>
+        </Key>
+        <Key name="Cont0">
+            <Value int="2"/>
+        </Key>
+        <Key name="Health">
+            <Value fixed="2000"/>
+        </Key>
+        <Key name="Strength">
+            <Value int="4"/>
+        </Key>
+        <Key name="ExperanceMax">
+            <Value int="22501"/>
+        </Key>
+        <Key name="Level">
+            <Value int="4"/>
+        </Key>
+        <Key name="CustomResource">
+            <Value int="0"/>
+        </Key>
+        <Key name="StatusBonus">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharacterName">
+            <Value text="필멸의 전사"/>
+        </Key>
+        <Key name="Mineral">
+            <Value int="275"/>
+        </Key>
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+        <Key name="UpgradeLevel">
+            <Value int="1"/>
+        </Key>
+        <Key name="Cont1">
+            <Value int="2"/>
+        </Key>
+        <Key name="Inven1">
+            <Type string="0___bastard"/>
+            <Shields fixed="0"/>
+            <Life fixed="10"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="Resource">
+            <Value int="0"/>
+        </Key>
+        <Key name="Agillity">
+            <Value int="4"/>
+        </Key>
+        <Key name="Character">
+            <Type string="Zeratul22"/>
+            <Shields fixed="0"/>
+            <Life fixed="2000"/>
+            <Energy fixed="100"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="Slot1">
+            <Value int="65"/>
+        </Key>
+        <Key name="Intelligence">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharacterType">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="1">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerDataD">
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerDataC">
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="hisex">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerDataE">
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerDataB">
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="hisnum">
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="hissec">
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerData">
+        <Key name="PlayerKey">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Signature value="A5970F0DE06461023BDE02FD43E3344AF55EBF20"/>
+</Bank>

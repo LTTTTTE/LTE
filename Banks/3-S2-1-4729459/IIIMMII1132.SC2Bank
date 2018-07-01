@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="TL1344">
+        <Key name="011000">
+            <Value string="0"/>
+        </Key>
+        <Key name="2000">
+            <Value string="0"/>
+        </Key>
+        <Key name="1101">
+            <Value string="0"/>
+        </Key>
+        <Key name="2212">
+            <Value string="0"/>
+        </Key>
+        <Key name="011111">
+            <Value string="0"/>
+        </Key>
+        <Key name="010010">
+            <Value string="0"/>
+        </Key>
+        <Key name="1001">
+            <Value string="0"/>
+        </Key>
+        <Key name="10011">
+            <Value string="0"/>
+        </Key>
+        <Key name="00010">
+            <Value string="0"/>
+        </Key>
+        <Key name="001000">
+            <Value string="0"/>
+        </Key>
+        <Key name="000000">
+            <Value string="0"/>
+        </Key>
+        <Key name="2122">
+            <Value string="0"/>
+        </Key>
+        <Key name="0111">
+            <Value string="0"/>
+        </Key>
+        <Key name="000110">
+            <Value string="0"/>
+        </Key>
+        <Key name="100011">
+            <Value string="0"/>
+        </Key>
+        <Key name="10001">
+            <Value string="0"/>
+        </Key>
+        <Key name="001110">
+            <Value string="0"/>
+        </Key>
+        <Key name="101000">
+            <Value string="0"/>
+        </Key>
+        <Key name="00011">
+            <Value string="0"/>
+        </Key>
+        <Key name="2202">
+            <Value string="0"/>
+        </Key>
+        <Key name="11100">
+            <Value string="0"/>
+        </Key>
+        <Key name="0010">
+            <Value string="0"/>
+        </Key>
+        <Key name="10110">
+            <Value string="0"/>
+        </Key>
+        <Key name="000011">
+            <Value string="0"/>
+        </Key>
+        <Key name="2111">
+            <Value string="0"/>
+        </Key>
+        <Key name="10010">
+            <Value string="0"/>
+        </Key>
+        <Key name="001100">
+            <Value string="0"/>
+        </Key>
+        <Key name="2001">
+            <Value string="0"/>
+        </Key>
+        <Key name="10100">
+            <Value string="0"/>
+        </Key>
+        <Key name="001010">
+            <Value string="0"/>
+        </Key>
+        <Key name="0100">
+            <Value string="0"/>
+        </Key>
+        <Key name="100100">
+            <Value string="0"/>
+        </Key>
+        <Key name="001111">
+            <Value string="0"/>
+        </Key>
+        <Key name="2121">
+            <Value string="0"/>
+        </Key>
+        <Key name="11111">
+            <Value string="0"/>
+        </Key>
+        <Key name="101111">
+            <Value string="0"/>
+        </Key>
+        <Key name="101110">
+            <Value string="0"/>
+        </Key>
+        <Key name="01111">
+            <Value string="0"/>
+        </Key>
+        <Key name="010011">
+            <Value string="0"/>
+        </Key>
+        <Key name="010000">
+            <Value string="0"/>
+        </Key>
+        <Key name="1110">
+            <Value string="0"/>
+        </Key>
+        <Key name="110111">
+            <Value string="0"/>
+        </Key>
+        <Key name="111101">
+            <Value string="1"/>
+        </Key>
+        <Key name="01010">
+            <Value string="0"/>
+        </Key>
+        <Key name="100010">
+            <Value string="1"/>
+        </Key>
+        <Key name="00100">
+            <Value string="0"/>
+        </Key>
+        <Key name="2221">
+            <Value string="0"/>
+        </Key>
+        <Key name="10111">
+            <Value string="0"/>
+        </Key>
+        <Key name="11110">
+            <Value string="0"/>
+        </Key>
+        <Key name="000010">
+            <Value string="0"/>
+        </Key>
+        <Key name="111111">
+            <Value string="0"/>
+        </Key>
+        <Key name="100111">
+            <Value string="0"/>
+        </Key>
+        <Key name="2012">
+            <Value string="0"/>
+        </Key>
+        <Key name="111100">
+            <Value string="0"/>
+        </Key>
+        <Key name="10000">
+            <Value string="0"/>
+        </Key>
+        <Key name="0001">
+            <Value string="0"/>
+        </Key>
+        <Key name="2002">
+            <Value string="0"/>
+        </Key>
+        <Key name="00000">
+            <Value string="0"/>
+        </Key>
+        <Key name="01000">
+            <Value string="0"/>
+        </Key>
+        <Key name="001001">
+            <Value string="0"/>
+        </Key>
+        <Key name="011110">
+            <Value string="0"/>
+        </Key>
+        <Key name="001011">
+            <Value string="7"/>
+        </Key>
+        <Key name="2222">
+            <Value string="0"/>
+        </Key>
+        <Key name="1000">
+            <Value string="0"/>
+        </Key>
+        <Key name="000100">
+            <Value string="10"/>
+        </Key>
+        <Key name="100001">
+            <Value string="0"/>
+        </Key>
+        <Key name="2112">
+            <Value string="0"/>
+        </Key>
+        <Key name="01110">
+            <Value string="0"/>
+        </Key>
+        <Key name="100000">
+            <Value string="0"/>
+        </Key>
+        <Key name="000111">
+            <Value string="0"/>
+        </Key>
+        <Key name="01011">
+            <Value string="0"/>
+        </Key>
+        <Key name="1202">
+            <Value string="0"/>
+        </Key>
+        <Key name="0000">
+            <Value string="0"/>
+        </Key>
+        <Key name="110000">
+            <Value string="0"/>
+        </Key>
+        <Key name="010110">
+            <Value string="0"/>
+        </Key>
+        <Key name="111011">
+            <Value string="0"/>
+        </Key>
+        <Key name="11101">
+            <Value string="0"/>
+        </Key>
+        <Key name="111110">
+            <Value string="0"/>
+        </Key>
+        <Key name="00001">
+            <Value string="0"/>
+        </Key>
+        <Key name="011100">
+            <Value string="0"/>
+        </Key>
+        <Key name="000001">
+            <Value string="0"/>
+        </Key>
+        <Key name="010100">
+            <Value string="0"/>
+        </Key>
+        <Key name="100110">
+            <Value string="0"/>
+        </Key>
+        <Key name="111000">
+            <Value string="0"/>
+        </Key>
+        <Key name="2220">
+            <Value string="0"/>
+        </Key>
+        <Key name="2021">
+            <Value string="0"/>
+        </Key>
+        <Key name="0011">
+            <Value string="0"/>
+        </Key>
+        <Key name="010111">
+            <Value string="0"/>
+        </Key>
+        <Key name="11011">
+            <Value string="0"/>
+        </Key>
+        <Key name="1111">
+            <Value string="0"/>
+        </Key>
+        <Key name="010001">
+            <Value string="0"/>
+        </Key>
+        <Key name="0212">
+            <Value string="0"/>
+        </Key>
+        <Key name="0101">
+            <Value string="0"/>
+        </Key>
+        <Key name="1011">
+            <Value string="0"/>
+        </Key>
+        <Key name="00111">
+            <Value string="0"/>
+        </Key>
+        <Key name="101100">
+            <Value string="0"/>
+        </Key>
+    </Section>
+    <Section name="UM772">
+        <Key name="011000">
+            <Value string="20"/>
+        </Key>
+    </Section>
+    <Signature value="EB5688E021328A8E56D6D8A2C865F223372CF4BA"/>
+</Bank>

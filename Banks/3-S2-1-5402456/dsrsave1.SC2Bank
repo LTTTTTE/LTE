@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="uplv3">
+        <Key name="Upgrade/Name/UnknownUpgrade533222">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade522">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5">
+            <Value int="74"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53322">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5352">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade533">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade7">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade52222">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5322">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade532">
+            <Value int="18"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade54">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade52">
+            <Value int="30"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade535">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53522">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade534">
+            <Value int="4"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5332">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53">
+            <Value int="100"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5222">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="item">
+        <Key name="itemclass3">
+            <Value string="232232221875"/>
+        </Key>
+        <Key name="itemclass2">
+            <Value string="2342422232233533"/>
+        </Key>
+    </Section>
+    <Section name="uplv2">
+        <Key name="Upgrade/Name/UnknownUpgrade533222">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade522">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53322">
+            <Value int="29"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5352">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade533">
+            <Value int="14"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade7">
+            <Value int="7"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade52222">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5322">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade532">
+            <Value int="6"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade54">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade52">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade535">
+            <Value int="7"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53522">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade534">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5332">
+            <Value int="6"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade53">
+            <Value int="0"/>
+        </Key>
+        <Key name="Upgrade/Name/UnknownUpgrade5222">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="inven3">
+        <Key name="slot8">
+            <Value int="3"/>
+        </Key>
+        <Key name="cont5">
+            <Value int="5"/>
+        </Key>
+        <Key name="item2">
+            <Type string="MaulOfStrength332222"/>
+            <Shields fixed="31250"/>
+            <Life fixed="0"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont5slot1">
+            <Value string="M9.0000"/>
+        </Key>
+        <Key name="cont3">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot1">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot4">
+            <Value int="2"/>
+        </Key>
+        <Key name="cont4">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot2">
+            <Value int="8"/>
+        </Key>
+        <Key name="cont5slot2">
+            <Value string="M7.0000"/>
+        </Key>
+        <Key name="cont2">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont1">
+            <Value int="5"/>
+        </Key>
+        <Key name="item1">
+            <Type string="MaulOfStrength252"/>
+            <Shields fixed="31250"/>
+            <Life fixed="0"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item6">
+            <Type string="MaulOfStrength23332223322"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item8">
+            <Type string="MaulOfStrength25"/>
+            <Shields fixed="31250"/>
+            <Life fixed="0"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont7">
+            <Value int="6"/>
+        </Key>
+        <Key name="cont5slot5">
+            <Value string=""/>
+        </Key>
+        <Key name="item5">
+            <Type string="MaulOfStrength332522222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item4">
+            <Type string="MaulOfStrength22222222222222322232"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont6slot1">
+            <Value string="J5.0000"/>
+        </Key>
+        <Key name="cont8">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont5slot7">
+            <Value string="A359.2219"/>
+        </Key>
+        <Key name="cont5slot6">
+            <Value string="M5.0000"/>
+        </Key>
+        <Key name="cont5slot8">
+            <Value string=""/>
+        </Key>
+        <Key name="cont5slot3">
+            <Value string=""/>
+        </Key>
+        <Key name="slot7">
+            <Value int="1"/>
+        </Key>
+        <Key name="item3">
+            <Type string="MaulOfStrength233232332"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item7">
+            <Type string="MaulOfStrength2332222222222223322222222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="slot6">
+            <Value int="7"/>
+        </Key>
+        <Key name="slot5">
+            <Value int="1"/>
+        </Key>
+        <Key name="cont6">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot3">
+            <Value int="6"/>
+        </Key>
+    </Section>
+    <Section name="latestver">
+        <Key name="ver2">
+            <Value fixed="1.14"/>
+        </Key>
+        <Key name="ver3">
+            <Value fixed="1.12"/>
+        </Key>
+        <Key name="ver">
+            <Value fixed="1.14"/>
+        </Key>
+    </Section>
+    <Section name="inven2">
+        <Key name="slot8">
+            <Value int="2"/>
+        </Key>
+        <Key name="cont5">
+            <Value int="1"/>
+        </Key>
+        <Key name="item2">
+            <Type string="MaulOfStrength332222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont5slot4">
+            <Value string="L1.1296 K0.1362 C566.0000 G1.0000 H7.0000 K0.7480 J2.0000 G7.0000 F0.0317 A180.0000 G25.0000 I5.0000"/>
+        </Key>
+        <Key name="cont10">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont5slot1">
+            <Value string="E91.0000 K0.7239 B0.2356 L1.2554 I21.0000 M2.0000 J2.0000 B0.0400 B0.1406 B0.2773 M1.0000 A786.0000"/>
+        </Key>
+        <Key name="cont11">
+            <Value int="6"/>
+        </Key>
+        <Key name="cont3">
+            <Value int="3"/>
+        </Key>
+        <Key name="slot1">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot4">
+            <Value int="6"/>
+        </Key>
+        <Key name="cont4">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot2">
+            <Value int="8"/>
+        </Key>
+        <Key name="cont5slot2">
+            <Value string="G34.0000 D6.0000 I4.0000 J2.0000 H7.0000 M2.0000 F0.0125 B0.2258 L1.3142 K0.2546 H1.0000 E42.0000"/>
+        </Key>
+        <Key name="cont2">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont1">
+            <Value int="5"/>
+        </Key>
+        <Key name="item1">
+            <Type string="MaulOfStrength252"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item9">
+            <Type string="MaulOfStrength332242422222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item6">
+            <Type string="MaulOfStrength2333222333"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont1slot65">
+            <Value string=""/>
+        </Key>
+        <Key name="item8">
+            <Type string="MaulOfStrength2222222222222232223"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item11">
+            <Type string="MineralCrystal22"/>
+            <Shields fixed="0"/>
+            <Life fixed="10"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont9">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont7">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont5slot5">
+            <Value string=""/>
+        </Key>
+        <Key name="item10">
+            <Type string="MaulOfStrength233232222332222222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item5">
+            <Type string="MaulOfStrength4223"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item4">
+            <Type string="MaulOfStrength23323233222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont6slot1">
+            <Value string="G18.0000 J2.0000 B0.0962 G38.0000 F0.0278 G34.0000 A128.0000 J2.0000 K0.2161"/>
+        </Key>
+        <Key name="slot10">
+            <Value int="4"/>
+        </Key>
+        <Key name="cont3slot65">
+            <Value string=""/>
+        </Key>
+        <Key name="slot11">
+            <Value int="1"/>
+        </Key>
+        <Key name="slot9">
+            <Value int="1"/>
+        </Key>
+        <Key name="cont8">
+            <Value int="5"/>
+        </Key>
+        <Key name="cont5slot7">
+            <Value string="C1235.0000 I14.0000 D7.0000 F0.0320 M4.0000 K1.2495"/>
+        </Key>
+        <Key name="cont5slot6">
+            <Value string="L1.2112 K0.2310 I36.0000"/>
+        </Key>
+        <Key name="cont5slot8">
+            <Value string=""/>
+        </Key>
+        <Key name="cont5slot3">
+            <Value string="A3.0000 J4.0000 M2.0000 J5.0000 B0.1296 C653.0000"/>
+        </Key>
+        <Key name="slot7">
+            <Value int="3"/>
+        </Key>
+        <Key name="item3">
+            <Type string="MaulOfStrength422322"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="item7">
+            <Type string="MaulOfStrength23322222222222233222222222222222222"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="slot6">
+            <Value int="7"/>
+        </Key>
+        <Key name="slot5">
+            <Value int="65"/>
+        </Key>
+        <Key name="cont6">
+            <Value int="5"/>
+        </Key>
+        <Key name="slot3">
+            <Value int="65"/>
+        </Key>
+    </Section>
+    <Section name="terz">
+        <Key name="v2">
+            <Value int="316"/>
+        </Key>
+        <Key name="num1">
+            <Value int="4159565"/>
+        </Key>
+        <Key name="v3">
+            <Value int="144"/>
+        </Key>
+        <Key name="gs">
+            <Value int="91"/>
+        </Key>
+    </Section>
+    <Section name="handle">
+        <Key name="value">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Section name="Confirm">
+        <Key name="Voucher">
+            <Value string=""/>
+        </Key>
+    </Section>
+    <Section name="encry">
+        <Key name="x3">
+            <Value string="SGEE"/>
+        </Key>
+        <Key name="s2">
+            <Value string="3}%c+f*del8gbea]Ve^6{87mdiidd})4:5]hbie6im7}!7*2+bdibcai9#U9|c*c"/>
+        </Key>
+        <Key name="c3">
+            <Value string="4:Z9:4:66a567ha#U4+2^8"/>
+        </Key>
+        <Key name="checkuplv2">
+            <Value string="69"/>
+        </Key>
+        <Key name="checksuma">
+            <Value string="3-"/>
+        </Key>
+        <Key name="x2">
+            <Value string="GRW"/>
+        </Key>
+        <Key name="mnl">
+            <Value string="0"/>
+        </Key>
+        <Key name="s12">
+            <Value string="a+!4-"/>
+        </Key>
+        <Key name="checklv2">
+            <Value string="236"/>
+        </Key>
+        <Key name="z2">
+            <Value string="/13[3]/20[3]"/>
+        </Key>
+        <Key name="cyclelv">
+            <Value string="0"/>
+        </Key>
+        <Key name="checkupsr2">
+            <Value string="316"/>
+        </Key>
+        <Key name="checklv3">
+            <Value string="1277"/>
+        </Key>
+        <Key name="z4">
+            <Value string="7"/>
+        </Key>
+        <Key name="checkuplv3">
+            <Value string="226"/>
+        </Key>
+        <Key name="z1">
+            <Value string="64"/>
+        </Key>
+        <Key name="checkupsr3">
+            <Value string="144"/>
+        </Key>
+        <Key name="checktem3">
+            <Value string="232232221875"/>
+        </Key>
+        <Key name="checkhd2">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+        <Key name="checktem2">
+            <Value string="2342422232233533"/>
+        </Key>
+        <Key name="cycle">
+            <Value string="0"/>
+        </Key>
+        <Key name="c2">
+            <Value string="5_Y4_5:85a578b6_X5_7@74e"/>
+        </Key>
+        <Key name="checkhd3">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Signature value="BC543716ABD8E570E667F35A5F4D7CA8D6F331EF"/>
+</Bank>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ADC">
+        <Key name="c25">
+            <Value int="600"/>
+        </Key>
+        <Key name="c22">
+            <Value int="528"/>
+        </Key>
+        <Key name="v6">
+            <Value int="144"/>
+        </Key>
+        <Key name="v2">
+            <Value int="48"/>
+        </Key>
+        <Key name="c24">
+            <Value int="576"/>
+        </Key>
+        <Key name="v9">
+            <Value int="216"/>
+        </Key>
+        <Key name="k51125">
+            <Value int="24"/>
+        </Key>
+        <Key name="v8">
+            <Value int="192"/>
+        </Key>
+        <Key name="v3">
+            <Value int="72"/>
+        </Key>
+        <Key name="k51126">
+            <Value int="1296"/>
+        </Key>
+        <Key name="v5">
+            <Value int="120"/>
+        </Key>
+        <Key name="v1">
+            <Value int="24"/>
+        </Key>
+        <Key name="c21">
+            <Value int="504"/>
+        </Key>
+        <Key name="c23">
+            <Value int="552"/>
+        </Key>
+        <Key name="v4">
+            <Value int="96"/>
+        </Key>
+        <Key name="v7">
+            <Value int="168"/>
+        </Key>
+    </Section>
+</Bank>

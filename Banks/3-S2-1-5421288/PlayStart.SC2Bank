@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="SkinLimit">
+        <Key name="potagrams1">
+            <Value int="3312"/>
+        </Key>
+    </Section>
+    <Section name="Skin">
+        <Key name="Archon1">
+            <Value int="55"/>
+        </Key>
+        <Key name="High1">
+            <Value int="55"/>
+        </Key>
+        <Key name="Zealot4">
+            <Value int="55"/>
+        </Key>
+    </Section>
+    <Section name="Chest">
+        <Key name="sorrythankyou">
+            <Value int="73"/>
+        </Key>
+    </Section>
+    <Section name="MasterGiveBlock">
+        <Key name="MGBplaysave">
+            <Value int="16709"/>
+        </Key>
+    </Section>
+    <Signature value="E19AA70D28625BCA5F82F6059424EE5F163BE355"/>
+</Bank>

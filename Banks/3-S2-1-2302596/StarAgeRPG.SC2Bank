@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="pet_room5">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet2">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet6">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="character3">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="check">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="revive">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="spoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="0"/>
+        </Key>
+        <Key name="epoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="character2">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="check">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="revive">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="spoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="0"/>
+        </Key>
+        <Key name="epoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room2">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet7">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room13">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room6">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet5">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room12">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room8">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet3">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="character4">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="check">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="revive">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="spoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="0"/>
+        </Key>
+        <Key name="epoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room4">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet4">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room3">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="character1">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="check">
+            <Value int="37"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="1491"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="revive">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="spoint">
+            <Value int="50"/>
+        </Key>
+        <Key name="element1">
+            <Value int="10"/>
+        </Key>
+        <Key name="type">
+            <Value int="2"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="292"/>
+        </Key>
+        <Key name="epoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room9">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room7">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="character5">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="check">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="revive">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="spoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="playtime">
+            <Value int="0"/>
+        </Key>
+        <Key name="epoint">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room14">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room11">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room10">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet_room1">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="0"/>
+        </Key>
+        <Key name="element3">
+            <Value int="0"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="0"/>
+        </Key>
+        <Key name="state3">
+            <Value int="0"/>
+        </Key>
+        <Key name="state4">
+            <Value int="0"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="0"/>
+        </Key>
+        <Key name="state2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pet1">
+        <Key name="element2">
+            <Value int="0"/>
+        </Key>
+        <Key name="state1">
+            <Value int="128"/>
+        </Key>
+        <Key name="element3">
+            <Value int="7"/>
+        </Key>
+        <Key name="exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="element4">
+            <Value int="3"/>
+        </Key>
+        <Key name="state3">
+            <Value int="111"/>
+        </Key>
+        <Key name="state4">
+            <Value int="800"/>
+        </Key>
+        <Key name="element1">
+            <Value int="0"/>
+        </Key>
+        <Key name="type">
+            <Value int="1"/>
+        </Key>
+        <Key name="state2">
+            <Value int="144"/>
+        </Key>
+    </Section>
+    <Section name="natural">
+        <Key name="gold">
+            <Value int="3475"/>
+        </Key>
+    </Section>
+    <Signature value="64DC7AF7CC652523EA457FB8DE3B63015DF719A1"/>
+</Bank>

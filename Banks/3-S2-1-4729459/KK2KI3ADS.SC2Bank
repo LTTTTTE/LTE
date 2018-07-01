@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="RK31">
+        <Key name="011000">
+            <Value string="1"/>
+        </Key>
+    </Section>
+    <Section name="RMK13">
+        <Key name="011000">
+            <Value string="100"/>
+        </Key>
+        <Key name="011110">
+            <Value string="40"/>
+        </Key>
+        <Key name="010010">
+            <Value string="70"/>
+        </Key>
+        <Key name="001011">
+            <Value string="80"/>
+        </Key>
+        <Key name="000100">
+            <Value string="75"/>
+        </Key>
+        <Key name="000110">
+            <Value string="90"/>
+        </Key>
+        <Key name="01011">
+            <Value string="20"/>
+        </Key>
+        <Key name="10100">
+            <Value string="5"/>
+        </Key>
+        <Key name="111011">
+            <Value string="30"/>
+        </Key>
+        <Key name="001111">
+            <Value string="55"/>
+        </Key>
+        <Key name="100110">
+            <Value string="25"/>
+        </Key>
+        <Key name="101110">
+            <Value string="35"/>
+        </Key>
+        <Key name="111000">
+            <Value string="60"/>
+        </Key>
+        <Key name="010111">
+            <Value string="50"/>
+        </Key>
+        <Key name="010000">
+            <Value string="85"/>
+        </Key>
+        <Key name="01010">
+            <Value string="15"/>
+        </Key>
+        <Key name="100010">
+            <Value string="95"/>
+        </Key>
+        <Key name="010001">
+            <Value string="10"/>
+        </Key>
+        <Key name="100111">
+            <Value string="45"/>
+        </Key>
+        <Key name="101100">
+            <Value string="65"/>
+        </Key>
+    </Section>
+    <Section name="RMN1112">
+        <Key name="011000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="011110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="001011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="000100">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="000110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="01011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="10100">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="111011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="001111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="101110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="111000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="01010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010001">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="101100">
+            <Value text="Computer"/>
+        </Key>
+    </Section>
+    <Section name="RPK118">
+        <Key name="011000">
+            <Value string="100"/>
+        </Key>
+        <Key name="011110">
+            <Value string="40"/>
+        </Key>
+        <Key name="010010">
+            <Value string="70"/>
+        </Key>
+        <Key name="001011">
+            <Value string="80"/>
+        </Key>
+        <Key name="000100">
+            <Value string="75"/>
+        </Key>
+        <Key name="000110">
+            <Value string="90"/>
+        </Key>
+        <Key name="01011">
+            <Value string="20"/>
+        </Key>
+        <Key name="10100">
+            <Value string="5"/>
+        </Key>
+        <Key name="111011">
+            <Value string="30"/>
+        </Key>
+        <Key name="001111">
+            <Value string="55"/>
+        </Key>
+        <Key name="100110">
+            <Value string="25"/>
+        </Key>
+        <Key name="101110">
+            <Value string="35"/>
+        </Key>
+        <Key name="111000">
+            <Value string="60"/>
+        </Key>
+        <Key name="010111">
+            <Value string="50"/>
+        </Key>
+        <Key name="010000">
+            <Value string="85"/>
+        </Key>
+        <Key name="01010">
+            <Value string="15"/>
+        </Key>
+        <Key name="100010">
+            <Value string="95"/>
+        </Key>
+        <Key name="010001">
+            <Value string="10"/>
+        </Key>
+        <Key name="100111">
+            <Value string="45"/>
+        </Key>
+        <Key name="101100">
+            <Value string="65"/>
+        </Key>
+    </Section>
+    <Section name="RPN0102">
+        <Key name="011000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="011110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="001011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="000100">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="000110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="01011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="10100">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="111011">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="001111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="101110">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="111000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010000">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="01010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100010">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="010001">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="100111">
+            <Value text="Computer"/>
+        </Key>
+        <Key name="101100">
+            <Value text="Computer"/>
+        </Key>
+    </Section>
+    <Signature value="5874A1C8E327DC7B5C57C84193C587F627E9394D"/>
+</Bank>

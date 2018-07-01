@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Coin2">
+        <Key name="number">
+            <Value int="140"/>
+        </Key>
+    </Section>
+    <Signature value="FD9F39C973FE6976BBFA97C95BCC43F1885551E9"/>
+</Bank>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="achievement">
+        <Key name="save">
+            <Value string="111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
+        </Key>
+        <Key name="rnd">
+            <Value string="6996"/>
+        </Key>
+        <Key name="playername">
+            <Value text="모모랜드"/>
+        </Key>
+    </Section>
+    <Signature value="4670E7F01CF3BA7D29962D3754DD4ECC31BE2562"/>
+</Bank>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="record">
+        <Key name="zcomb1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ispur1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="zcomb4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="zcomb3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ispurz2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ispurz4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="zcomb2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="pnt">
+            <Value int="2609"/>
+        </Key>
+        <Key name="kill">
+            <Value int="709"/>
+        </Key>
+        <Key name="vic">
+            <Value int="0"/>
+        </Key>
+        <Key name="ispurz3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="inb">
+            <Value int="1"/>
+        </Key>
+        <Key name="exp">
+            <Value int="50"/>
+        </Key>
+        <Key name="ispurd4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ispurz1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ispurz5">
+            <Value flag="1"/>
+        </Key>
+        <Key name="all">
+            <Value int="0"/>
+        </Key>
+        <Key name="dcomb4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="comb6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="isch">
+            <Value int="1"/>
+        </Key>
+        <Key name="zcomb5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="camera"/>
+    <Signature value="46F216359100022D69AB3E292670E803AE0A45F2"/>
+</Bank>
