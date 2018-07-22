@@ -2,12 +2,12 @@
 <Bank version="1">
     <Section name="PET5">
         <Key name="PET6">
-            <Value int="17396"/>
+            <Value int="86956"/>
         </Key>
     </Section>
     <Section name="TITLE5">
         <Key name="TITLE2">
-            <Value int="58398"/>
+            <Value int="11461"/>
         </Key>
     </Section>
     <Section name="Skin">
@@ -52,26 +52,26 @@
     </Section>
     <Section name="PlayTime">
         <Key name="PlayTime1">
-            <Value int="1467"/>
+            <Value int="1476"/>
         </Key>
         <Key name="PlayTime2">
-            <Value int="377"/>
+            <Value int="381"/>
         </Key>
         <Key name="PlayTime3">
-            <Value int="713"/>
+            <Value int="714"/>
         </Key>
     </Section>
     <Section name="PET3">
         <Key name="PET2">
-            <Value int="40879"/>
+            <Value int="45902"/>
         </Key>
     </Section>
     <Section name="TITLE2">
         <Key name="TITLE2">
-            <Value int="42288"/>
+            <Value int="29255"/>
         </Key>
         <Key name="TITLE1">
-            <Value int="93025"/>
+            <Value int="53803"/>
         </Key>
     </Section>
     <Section name="FINALTITLE">
@@ -81,22 +81,22 @@
     </Section>
     <Section name="PET">
         <Key name="PETcode3">
-            <Value int="-40879"/>
+            <Value int="-45902"/>
         </Key>
         <Key name="PETcode6">
-            <Value int="-45807"/>
+            <Value int="-27046"/>
         </Key>
         <Key name="PETcode4">
-            <Value int="19261"/>
+            <Value int="-12484"/>
         </Key>
         <Key name="PETcode1">
-            <Value int="-4470"/>
+            <Value int="-47020"/>
         </Key>
         <Key name="PETcode2">
-            <Value int="-107727"/>
+            <Value int="-75242"/>
         </Key>
         <Key name="PETcode5">
-            <Value int="-17396"/>
+            <Value int="-86956"/>
         </Key>
         <Key name="PETcode7">
             <Value int="0"/>
@@ -110,16 +110,16 @@
             <Value int="10"/>
         </Key>
         <Key name="EXP2">
-            <Value int="1083885"/>
+            <Value int="1102764"/>
         </Key>
         <Key name="EXPH2">
-            <Value string="943-S2-1-43834690"/>
+            <Value string="953-S2-1-43834690"/>
         </Key>
         <Key name="EXPC9">
             <Value int="45"/>
         </Key>
         <Key name="EXP3">
-            <Value int="334461"/>
+            <Value int="339982"/>
         </Key>
         <Key name="EXPC1">
             <Value int="27013"/>
@@ -128,7 +128,7 @@
             <Value int="30"/>
         </Key>
         <Key name="EXPC3">
-            <Value int="886335"/>
+            <Value int="902517"/>
         </Key>
         <Key name="EXPC10">
             <Value int="50"/>
@@ -137,10 +137,10 @@
             <Value int="35"/>
         </Key>
         <Key name="EXPH3">
-            <Value string="543-S2-1-1761161"/>
+            <Value string="543-S2-1-1761162"/>
         </Key>
         <Key name="EXP1">
-            <Value int="464650"/>
+            <Value int="472741"/>
         </Key>
         <Key name="EXPC4">
             <Value int="20"/>
@@ -159,10 +159,10 @@
     </Section>
     <Section name="TITLE1">
         <Key name="TITLE2">
-            <Value int="19289"/>
+            <Value int="37987"/>
         </Key>
         <Key name="TITLE1">
-            <Value int="55806"/>
+            <Value int="26498"/>
         </Key>
     </Section>
     <Section name="PETLV4">
@@ -178,26 +178,26 @@
             <Value int="4"/>
         </Key>
         <Key name="PETLV5">
-            <Value int="3"/>
+            <Value int="4"/>
         </Key>
     </Section>
     <Section name="TITLE3">
         <Key name="TITLE1">
-            <Value int="77781"/>
+            <Value int="98347"/>
         </Key>
         <Key name="TITLE4">
-            <Value int="70432"/>
+            <Value int="33173"/>
         </Key>
     </Section>
     <Section name="PET2">
         <Key name="PET2">
-            <Value int="40228"/>
+            <Value int="36533"/>
         </Key>
         <Key name="PET4">
-            <Value int="91933"/>
+            <Value int="88199"/>
         </Key>
         <Key name="PET1">
-            <Value int="24434"/>
+            <Value int="49490"/>
         </Key>
     </Section>
     <Section name="option">
@@ -242,30 +242,30 @@
     </Section>
     <Section name="PET1">
         <Key name="PET5">
-            <Value int="62552"/>
+            <Value int="23706"/>
         </Key>
         <Key name="PET3">
-            <Value int="22226"/>
+            <Value int="62849"/>
         </Key>
         <Key name="PET2">
-            <Value int="12164"/>
+            <Value int="73975"/>
         </Key>
         <Key name="PET4">
-            <Value int="38500"/>
+            <Value int="51312"/>
         </Key>
         <Key name="PET1">
-            <Value int="36078"/>
+            <Value int="10488"/>
         </Key>
         <Key name="PET6">
-            <Value int="74662"/>
+            <Value int="18776"/>
         </Key>
     </Section>
     <Section name="PET4">
         <Key name="PET3">
-            <Value int="37833"/>
+            <Value int="10264"/>
         </Key>
         <Key name="PET2">
-            <Value int="18572"/>
+            <Value int="22748"/>
         </Key>
     </Section>
     <Section name="FINALPET">
@@ -275,10 +275,10 @@
     </Section>
     <Section name="PET6">
         <Key name="PET5">
-            <Value int="19716"/>
+            <Value int="43516"/>
         </Key>
         <Key name="PET2">
-            <Value int="65523"/>
+            <Value int="70562"/>
         </Key>
     </Section>
     <Section name="PETLV1">
@@ -332,19 +332,19 @@
     </Section>
     <Section name="TITLE">
         <Key name="TITLEcode3">
-            <Value int="148213"/>
+            <Value int="131520"/>
         </Key>
         <Key name="TITLEcode4">
             <Value int="0"/>
         </Key>
         <Key name="TITLEcode2">
-            <Value int="50737"/>
+            <Value int="24548"/>
         </Key>
         <Key name="TITLEcode1">
-            <Value int="36517"/>
+            <Value int="-11489"/>
         </Key>
         <Key name="TITLEcode5">
-            <Value int="-58398"/>
+            <Value int="-11461"/>
         </Key>
     </Section>
     <Section name="PETLV3">
