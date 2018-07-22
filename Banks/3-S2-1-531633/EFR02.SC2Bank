@@ -2,10 +2,13 @@
 <Bank version="1">
     <Section name="game">
         <Key name="bp">
-            <Value int="136"/>
+            <Value int="365"/>
         </Key>
         <Key name="vic">
-            <Value int="21"/>
+            <Value int="35"/>
+        </Key>
+        <Key name="los">
+            <Value int="3"/>
         </Key>
         <Key name="disconnect">
             <Value flag="0"/>
@@ -14,7 +17,7 @@
             <Value int="2"/>
         </Key>
         <Key name="dis">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
     </Section>
     <Section name="md">
@@ -34,5 +37,5 @@
             <Value flag="0"/>
         </Key>
     </Section>
-    <Signature value="B06F4A45E9C48C833186C4337D8C46B34B26D24B"/>
+    <Signature value="47574A756098832F2E1B8FCB938BC854020A1D30"/>
 </Bank>

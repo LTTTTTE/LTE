@@ -47,7 +47,7 @@
             <Value int="2"/>
         </Key>
         <Key name="Credits">
-            <Value int="24"/>
+            <Value int="27"/>
         </Key>
         <Key name="Mechanic">
             <Value int="0"/>
@@ -77,7 +77,7 @@
             <Value int="0"/>
         </Key>
         <Key name="Score">
-            <Value int="49"/>
+            <Value int="52"/>
         </Key>
         <Key name="Hunter">
             <Value int="0"/>
@@ -113,7 +113,7 @@
             <Value int="0"/>
         </Key>
         <Key name="Reaper">
-            <Value int="6"/>
+            <Value int="9"/>
         </Key>
         <Key name="Medic">
             <Value int="0"/>
@@ -122,5 +122,5 @@
             <Value int="0"/>
         </Key>
     </Section>
-    <Signature value="A7405201B98D7AF9AB8F266DEA34EE7611113EAB"/>
+    <Signature value="2840C5A63CF5DB134E124111502E829BF6B64924"/>
 </Bank>
