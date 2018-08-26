@@ -143,7 +143,7 @@
             <Value int="0"/>
         </Key>
         <Key name="Experience">
-            <Value int="91498"/>
+            <Value int="92406"/>
         </Key>
         <Key name="X">
             <Value int="0"/>
@@ -155,7 +155,7 @@
             <Value int="50"/>
         </Key>
         <Key name="Checksum">
-            <Value int="8643"/>
+            <Value int="9886"/>
         </Key>
         <Key name="SN">
             <Value int="0"/>
@@ -178,10 +178,10 @@
     </Section>
     <Section name="SignatureX">
         <Key name="Checksum">
-            <Value string="esnsevdnvfsmZs"/>
+            <Value string="kWvWkYzzvzYZnW"/>
         </Key>
         <Key name="Validator">
-            <Value string="OWiWOGJmkTkWWg"/>
+            <Value string="zTbTzQRyhKRhQK"/>
         </Key>
     </Section>
     <Section name="MiniGames">
@@ -200,11 +200,11 @@
             <Value int="3"/>
         </Key>
         <Key name="Checksum">
-            <Value string="LiaiLQGGELGaEs"/>
+            <Value string="EkVkERjjmEbRqm"/>
         </Key>
         <Key name="KR">
             <Value string="3-S2-1-4383469"/>
         </Key>
     </Section>
-    <Signature value="F5E8B0B0C7FE0FC80263AA516564FB69E130EB8E"/>
+    <Signature value="11BD4764AC36AE5AABB81CDF4F0FDAA94B0E2EF5"/>
 </Bank>

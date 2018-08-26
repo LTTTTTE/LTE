@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A-1">
+        <Key name="A-1">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-14">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-0">
+            <Value text="프리셋1"/>
+        </Key>
+        <Key name="A-13">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-12">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-6">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-15">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-3">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-8">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-7">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-10">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-16">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-9">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-4">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-2">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-11">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-5">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+    </Section>
+    <Section name="A-3">
+        <Key name="A-1">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-14">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-0">
+            <Value text="프리셋3"/>
+        </Key>
+        <Key name="A-13">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-12">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-6">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-15">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-3">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-8">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-7">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-10">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-16">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-9">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-4">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-2">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-11">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-5">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+    </Section>
+    <Section name="A-2">
+        <Key name="A-1">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-14">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-0">
+            <Value text="프리셋2"/>
+        </Key>
+        <Key name="A-13">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-12">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-6">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-15">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-3">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-8">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-7">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-10">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-16">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-9">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-4">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-2">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-11">
+            <Value string="OOOO"/>
+        </Key>
+        <Key name="A-5">
+            <Value string="OOOOOOOOOOOO"/>
+        </Key>
+    </Section>
+    <Signature value="6A23855E5A44050AA64E0C672D7501603F7AB650"/>
+</Bank>

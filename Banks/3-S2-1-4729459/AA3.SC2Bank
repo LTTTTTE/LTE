@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A-1">
+        <Key name="A-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-14">
+            <Value int="66"/>
+        </Key>
+        <Key name="A-0">
+            <Value string="OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"/>
+        </Key>
+        <Key name="A-20">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-30">
+            <Value int="81"/>
+        </Key>
+        <Key name="A-17">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-13">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-12">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-6">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-15">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-27">
+            <Value int="4"/>
+        </Key>
+        <Key name="A-18">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-8">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-31">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-29">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-25">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-24">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-32">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-22">
+            <Value int="1"/>
+        </Key>
+        <Key name="A-19">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-7">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-21">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-10">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-16">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-9">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-28">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-26">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-23">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-11">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Signature value="2B409351179158874E9156C8C916D6E71CFBD7CC"/>
+</Bank>

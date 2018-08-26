@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A-1">
+        <Key name="A-1">
+            <Value string="OOOOOOOOCD"/>
+        </Key>
+        <Key name="A-6">
+            <Value string="OOOOOOOAED"/>
+        </Key>
+        <Key name="A-3">
+            <Value string="OOOOOOOOOD"/>
+        </Key>
+        <Key name="A-8">
+            <Value int="1"/>
+        </Key>
+        <Key name="A-7">
+            <Value string="OOOOOOOOOO"/>
+        </Key>
+        <Key name="A-10">
+            <Value int="1"/>
+        </Key>
+        <Key name="A-9">
+            <Value string="1"/>
+        </Key>
+        <Key name="A-4">
+            <Value string="OOOOOOOOOG"/>
+        </Key>
+        <Key name="A-2">
+            <Value string="OOOOOOOOOO"/>
+        </Key>
+        <Key name="A-11">
+            <Value int="0"/>
+        </Key>
+        <Key name="A-5">
+            <Value string="OOOOOOOOOO"/>
+        </Key>
+    </Section>
+    <Signature value="E20E187D041E6925A99FCCE18624D62619B9A6EB"/>
+</Bank>
