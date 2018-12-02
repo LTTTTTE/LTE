@@ -43,7 +43,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="Voice">
-            <Value int="6"/>
+            <Value int="13"/>
         </Key>
         <Key name="camAngle">
             <Value fixed="0"/>
@@ -146,7 +146,7 @@
             <Value int="0"/>
         </Key>
         <Key name="Experience">
-            <Value int="93317"/>
+            <Value int="101392"/>
         </Key>
         <Key name="X">
             <Value int="0"/>
@@ -155,10 +155,10 @@
             <Value int="0"/>
         </Key>
         <Key name="Evac">
-            <Value int="50"/>
+            <Value int="57"/>
         </Key>
         <Key name="Checksum">
-            <Value int="12080"/>
+            <Value int="8496"/>
         </Key>
         <Key name="SN">
             <Value int="0"/>
@@ -167,7 +167,7 @@
             <Value int="0"/>
         </Key>
         <Key name="EvacGrunt">
-            <Value int="2"/>
+            <Value int="3"/>
         </Key>
         <Key name="EvacNMG">
             <Value int="1"/>
@@ -181,10 +181,10 @@
     </Section>
     <Section name="SignatureX">
         <Key name="Checksum">
-            <Value string="EqIqEuftDhfhtD"/>
+            <Value string="YKeKYvJePnvWkK"/>
         </Key>
         <Key name="Validator">
-            <Value string="muvumcWZgmpgKp"/>
+            <Value string="JcRcJOZFHCQROb"/>
         </Key>
     </Section>
     <Section name="MiniGames">
@@ -203,11 +203,11 @@
             <Value int="3"/>
         </Key>
         <Key name="Checksum">
-            <Value string="ALvLAljjLLuyuH"/>
+            <Value string="sDLDsfQpJpDQIp"/>
         </Key>
         <Key name="KR">
             <Value string="3-S2-1-4383469"/>
         </Key>
     </Section>
-    <Signature value="A93F839B55D92EEB78A6BD1CD902FD1CAA3CEFD3"/>
+    <Signature value="A255666709B9C7051C426ACAAAD31F50596A1F00"/>
 </Bank>

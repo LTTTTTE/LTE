@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Difficulty">
+        <Key name="Ivanna">
+            <Value int="0"/>
+        </Key>
+        <Key name="ARTA">
+            <Value int="0"/>
+        </Key>
+        <Key name="Coins">
+            <Value int="6"/>
+        </Key>
+        <Key name="BILL&apos;s ship">
+            <Value int="0"/>
+        </Key>
+        <Key name="BILL">
+            <Value int="0"/>
+        </Key>
+        <Key name="Angela">
+            <Value int="0"/>
+        </Key>
+        <Key name="Very easy done">
+            <Value int="0"/>
+        </Key>
+        <Key name="Terromania">
+            <Value int="0"/>
+        </Key>
+        <Key name="Brutal done">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1478"/>
+        </Key>
+        <Key name="Arash">
+            <Value int="0"/>
+        </Key>
+        <Key name="Larvox">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hard done">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zack">
+            <Value int="0"/>
+        </Key>
+        <Key name="Viorel734">
+            <Value int="0"/>
+        </Key>
+        <Key name="Sooc">
+            <Value int="0"/>
+        </Key>
+        <Key name="Free Coins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Guardian shield">
+            <Value int="0"/>
+        </Key>
+        <Key name="Orland">
+            <Value int="0"/>
+        </Key>
+        <Key name="Richard">
+            <Value int="0"/>
+        </Key>
+        <Key name="Normal done">
+            <Value int="0"/>
+        </Key>
+        <Key name="Ismael">
+            <Value int="0"/>
+        </Key>
+        <Key name="Legendary done">
+            <Value int="0"/>
+        </Key>
+        <Key name="Fergus">
+            <Value int="0"/>
+        </Key>
+        <Key name="Mind control">
+            <Value int="0"/>
+        </Key>
+        <Key name="Psichy">
+            <Value int="0"/>
+        </Key>
+        <Key name="Easy done">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="FA8F9D7D0E4A66D9B9507245635C40770A4C0902"/>
+</Bank>

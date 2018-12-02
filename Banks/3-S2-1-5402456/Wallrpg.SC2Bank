@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="time">
+        <Key name="min">
+            <Value int="24"/>
+        </Key>
+    </Section>
+    <Section name="victory">
+        <Key name="number">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="item">
+        <Key name="itemclass">
+            <Value string="15991"/>
+        </Key>
+    </Section>
+    <Section name="inven1">
+        <Key name="item2">
+            <Type string="MaulOfStrength23332223"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont3">
+            <Value int="1"/>
+        </Key>
+        <Key name="slot1">
+            <Value int="1"/>
+        </Key>
+        <Key name="slot2">
+            <Value int="2"/>
+        </Key>
+        <Key name="cont2">
+            <Value int="1"/>
+        </Key>
+        <Key name="cont1">
+            <Value int="1"/>
+        </Key>
+        <Key name="item1">
+            <Type string="MaulOfStrength23332223"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="cont1slot1">
+            <Value string="K1.1743"/>
+        </Key>
+        <Key name="cont1slot3">
+            <Value string="I81.0000 D1.5000 I76.0000"/>
+        </Key>
+        <Key name="item3">
+            <Type string="MaulOfStrength233322232"/>
+            <Shields fixed="500000"/>
+            <Life fixed="500000"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+        <Key name="slot3">
+            <Value int="3"/>
+        </Key>
+        <Key name="cont1slot2">
+            <Value string="M-0.2449"/>
+        </Key>
+    </Section>
+    <Section name="latestver">
+        <Key name="ver1">
+            <Value fixed="0.2"/>
+        </Key>
+        <Key name="ver">
+            <Value fixed="0.2"/>
+        </Key>
+    </Section>
+    <Section name="handle">
+        <Key name="value">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+    </Section>
+    <Section name="encry">
+        <Key name="s2">
+            <Value string="9+Yh;b]97di46l5[)h^2{6dl757he#/a+f@fbgeiklc}=c}a_ibnge8nf]U3+9+6"/>
+        </Key>
+        <Key name="checksuma">
+            <Value string="4#$b;"/>
+        </Key>
+        <Key name="mnl">
+            <Value string="0"/>
+        </Key>
+        <Key name="checkhd1">
+            <Value string="3-S2-1-4383469"/>
+        </Key>
+        <Key name="checktem1">
+            <Value string="15991"/>
+        </Key>
+    </Section>
+    <Signature value="36E812FEA28D0A636ABCF67FA30962A54A7C440E"/>
+</Bank>

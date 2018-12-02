@@ -196,7 +196,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="12">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="63">
             <Value flag="0"/>
@@ -211,5 +211,5 @@
             <Value flag="1"/>
         </Key>
     </Section>
-    <Signature value="1AFE72AF92F1E912FD68F3E22EC2888049AFF375"/>
+    <Signature value="C0347C1883234C259A1799DFA20564137370E792"/>
 </Bank>
